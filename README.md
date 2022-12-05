@@ -2,6 +2,8 @@
 
 CROSS-XQUAD: APLICACIÓN DE FINE-TUNING EN MODELO EXTRACTIVO PARA UN SISTEMA DE PREGUNTAS Y RESPUESTAS MULTILENGUAJE.
 
+[![Watch the video](https://github.com/juanalvarez123/ISIS-4219-proyecto-final/blob/main/resources/video.png)](https://youtu.be/23Hrmx6ZIbM)
+
 ## Integrantes
 
 * Leonardo Ángel
